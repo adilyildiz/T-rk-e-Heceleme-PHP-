@@ -1,1 +1,1 @@
-# T-rk-e-Heceleme-PHP-
+# Türkçe Heceleme (PHP)
